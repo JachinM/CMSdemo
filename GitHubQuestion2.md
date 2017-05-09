@@ -1,4 +1,4 @@
-# Github问题集（2）
+# Github问题集（二）
 ### 1.个人主页上的“+”下拉菜单可创建的四种类别分别有？分别的意思？
     New repository,import repository,new gist,new organization
     新知识库，导入库，导入代码片段，新组织
