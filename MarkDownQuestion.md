@@ -7,7 +7,7 @@
 	用非常少量的代码完成最小可用原型
 ### 3.MarkDown的用途？
 	用于写博客
-    用于编写说明文档
+   	用于编写说明文档
 	可以快速将MarkDown转化为PPT，Word文档等
 ### 4.MarkDown的编辑工具有哪些？
     Windows:HBuilder,MarkDown Pad,MarkPad
